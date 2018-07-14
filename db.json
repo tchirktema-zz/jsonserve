@@ -4,21 +4,24 @@
       "id": 1, 
       "title": "Post 1" ,
       "user":{
-        "nom": "toto"
+        "nom": "toto",
+        "email": "a@b.com"
       }
     },
     { 
       "id": 2, 
       "title": "Post 2",
       "user":{
-        "nom": "abalo"
+        "nom": "abalo",
+        "email": "c@d.com"
       }
     },
     { 
       "id": 3, 
       "title": "Post 3",
       "user":{
-        "nom": "afi"
+        "nom": "afi",
+        "email": "a@b.com"
       }
     }
   ],
